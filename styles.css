@@ -1,0 +1,232 @@
+body{
+  font-family: Mulish;
+  Margin:0
+}
+
+/* Nav style */
+
+.container{ top: 100px;
+  margin: 0;
+  height: 100px;}
+
+  .logo{position: absolute;
+
+width: 75px;
+height: 75px;
+padding: 2em;
+left: 110px
+
+}
+
+nav ul{
+  margin: 5;
+  padding: 0;
+list-style: none;
+display: flex;
+justify-content: flex-end;
+align-items: center;
+padding: 3em;
+}
+
+
+nav a{
+  color: #000000;
+  text-decoration: none;
+  font-size: 14px;
+  position: relative;
+  padding-right: 5em;
+  font-weight: bold;
+}
+
+
+
+/* Project 1 goes here */
+.toilet{
+  position: absolute;
+width: 621px;
+height: 420px;
+left: 150px;
+top: 878px;
+}
+.project1{
+  position: absolute;
+width: 307px;
+height: 74px;
+left: 850px;
+top: 1051px;
+
+font-family: Mulish;
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 40px;
+
+color: #000000;
+}
+
+/* Project 2 goes here */
+.nonprofit{
+  position: absolute;
+width: 621px;
+height: 409px;
+left: 520px;
+top: 1574px;
+
+}
+
+.project2{
+  position: absolute;
+width: 307px;
+height: 74px;
+left: 164px;
+top: 1763px;
+
+font-family: Mulish;
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 40px;
+
+color: #000000;
+}
+
+/* Project 3 goes here */
+
+.bill{
+  position: absolute;
+width: 610px;
+height: 409px;
+left: 163px;
+top: 2259px;
+}
+.project3{
+  position: absolute;
+width: 307px;
+height: 74px;
+left: 850px;
+top: 2426px;
+
+font-family: Mulish;
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 40px;
+
+color: #000000;
+
+}
+
+
+
+/* logo goes here .logo{ width: 100px;
+margin: 100px;
+top: 50px;
+float: left;
+align-self: ;
+justify-content: flex-end;}*/
+
+
+
+/* header1 goes here */
+h1{
+
+ position: absolute;
+width: 301px;
+height: 61px;
+left: 525px;
+top: 380px;
+
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 60px;
+/* identical to box height */}
+
+/* header1 goes here */
+h2{
+position: absolute;
+width: 202px;
+height: 28px;
+left: 570px;
+top: 441px;
+
+font-family: Mulish;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 55px;
+
+color: #313131;
+}
+/* header1 goes here */
+p{
+
+position: absolute;
+width: 835px;
+height: 122px;
+left: 225px;
+top: 500px;
+
+font-family: Mulish;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+text-align: center;
+
+color: #000000;
+
+}
+
+
+/* footer goes here */
+
+
+footer{
+  
+  position:absolute;
+width: 308px;
+height: 30px;
+left: 160px;
+top: 2950px;
+padding-bottom: 2em;
+
+font-family: Mulish;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 28px;
+
+color: #000000;
+}
+/* Social Media goes here */
+.linkedin{position: absolute;
+width: 18px;
+height: 18px;
+left: 1015px;
+top: 2945px;
+}
+.behance{position: absolute;
+  width: 24px;
+height: 24px;
+left: 1060px;
+top: 2943px;
+}
+.dribbble{position: absolute;
+  width: 20px;
+height: 20px;
+left: 965px;
+top: 2946px;}
+
+.github{position: absolute;
+width: 22px;
+height: 22px;
+left: 1120px;
+top: 2946px;
+
+}
+
+
+body {font-family: 'Mulish', sans-serif;}
+
